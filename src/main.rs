@@ -117,8 +117,8 @@ fn decompress(data : &[u8]) -> Vec<u8> {
 			let len = item as usize;
 			let start = output.len() - offset;
 			for i in start..(start+len) {
-				let char = output[i];
-				output.push(char);
+				let c = output[i];
+				output.push(c);
 			}
 		}
 	}

@@ -2,5 +2,5 @@ input_lipsum.txt: compressed from 1689 to 1756, decompresed content matched.
 input_random.txt: compressed from 13836 to 26174, decompresed content matched.
 input_repetitive.txt: compressed from 2926 to 64, decompresed content matched.
 README.md: compressed from 395 to 472, decompresed content matched.
-src/main.rs: compressed from 3162 to 2610, decompresed content matched.
+src/main.rs: compressed from 3156 to 2606, decompresed content matched.
 src/io.rs: compressed from 906 to 676, decompresed content matched.
