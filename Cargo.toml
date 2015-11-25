@@ -1,0 +1,9 @@
+[package]
+
+name = "lz77"
+version = "0.0.1"
+authors = [ "Sebastian Schweizer <sebastian@schweizer.tel>" ]
+
+[[bin]]
+
+name = "lz77"
